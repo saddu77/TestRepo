@@ -1,3 +1,0 @@
-
-testing again by adding new line
-Hi Folks,Welcome to Git !!!
